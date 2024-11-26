@@ -68,3 +68,53 @@
 - **Permisos de Carpeta**: Asegúrate de que las carpetas utilizadas por el servidor FTP tienen los permisos adecuados.
 
 ¡Y eso es todo! Ahora deberías tener un servidor FTP funcionando en IIS.
+
+
+# Rúbrica para Evaluación de Procedimientos en Salud
+
+| **Aspectos para evaluar**                                                                                     | **SI/NO** | **OBSERVACIONES** |
+|---------------------------------------------------------------------------------------------------------------|-----------|--------------------|
+| **Intubación**                                                                                               |           |                    |
+| El personal de salud verifica los materiales antes de iniciar la intubación.                                 |           |                    |
+| Se utiliza técnica aséptica durante la intubación.                                                           |           |                    |
+| Se preoxigena al paciente antes de la intubación según las recomendaciones.                                  |           |                    |
+| Se realiza monitoreo constante del paciente durante y después del procedimiento.                             |           |                    |
+| Se utiliza un laringoscopio estéril y adecuado al tamaño del paciente.                                       |           |                    |
+| El tubo endotraqueal se fija correctamente después de su colocación.                                         |           |                    |
+| **Extubación**                                                                                               |           |                    |
+| El personal informa al paciente y a los familiares antes de realizar la extubación.                         |           |                    |
+| Se realiza preoxigenación antes de la extubación.                                                            |           |                    |
+| Se evalúan signos de complicaciones post-extubación, como laringoespasmo o aspiración.                       |           |                    |
+| Se coloca al paciente en posición adecuada para evitar complicaciones respiratorias.                         |           |                    |
+| Se utiliza un carro de paro disponible en caso de emergencia.                                                |           |                    |
+| **Infecciones Nosocomiales**                                                                                 |           |                    |
+| Se realiza lavado de manos correctamente antes y después de cada procedimiento.                              |           |                    |
+| Se utilizan guantes y mascarillas en cada interacción con pacientes de alto riesgo.                          |           |                    |
+| Las áreas de trabajo se desinfectan regularmente según protocolo.                                            |           |                    |
+| Se utiliza equipo desechable para cada procedimiento cuando es posible.                                      |           |                    |
+| Se controla la temperatura y humedad del ambiente hospitalario para evitar el crecimiento microbiano.        |           |                    |
+| **Colocación de Ropa para Aislamiento**                                                                      |           |                    |
+| El personal utiliza correctamente el equipo de protección personal (EPP).                                   |           |                    |
+| Se respetan las técnicas de aislamiento según la patología del paciente.                                     |           |                    |
+| Se informa adecuadamente al paciente sobre el proceso de aislamiento.                                        |           |                    |
+| Se verifica que todo el equipo de protección utilizado sea descartado adecuadamente al finalizar el turno.   |           |                    |
+| Las batas son reemplazadas en cada turno para evitar contaminación cruzada.                                  |           |                    |
+| **Canalización de Vena Periférica**                                                                          |           |                    |
+| Se selecciona adecuadamente la vena para la canalización, priorizando las distales.                          |           |                    |
+| Se utiliza material estéril y técnica correcta durante el procedimiento.                                     |           |                    |
+| Se documenta correctamente la cantidad de solución administrada y otros detalles.                            |           |                    |
+| El paciente es monitorizado constantemente durante la administración de soluciones intravenosas.             |           |                    |
+| Se evita el uso continuo de la misma vena para prevenir colapso venoso.                                      |           |                    |
+| **Curación (Plana, Irrigada y Avanzada)**                                                                    |           |                    |
+| Se evalúa el estado de la herida antes de iniciar la curación.                                               |           |                    |
+| Se utiliza solución fisiológica o Ringer lactato tibio según necesidad.                                      |           |                    |
+| Se aplican apósitos adecuados al tipo de herida y condición del paciente.                                    |           |                    |
+| Se utiliza técnica estéril durante todo el procedimiento.                                                    |           |                    |
+| Se registran observaciones relevantes sobre la evolución de la herida en el expediente del paciente.         |           |                    |
+| **Cuidado de Catéter de Hemodiálisis**                                                                       |           |                    |
+| Se evalúa el sitio de inserción del catéter antes de cada sesión de hemodiálisis.                            |           |                    |
+| Se sigue estrictamente el protocolo de asepsia para el manejo del catéter.                                   |           |                    |
+| Se registran todas las observaciones relacionadas con el catéter en el expediente del paciente.              |           |                    |
+| Se verifica la permeabilidad del catéter antes de cada sesión.                                               |           |                    |
+| Se asegura que el catéter esté correctamente fijado para evitar desplazamientos o infecciones.               |           |                    |
+
